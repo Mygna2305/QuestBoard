@@ -2,6 +2,11 @@
 
 Data Engineering (UCS677) End-Semester Lab Project
 
+## Live Demo
+- **App:** https://jubilant-nourishment-production-3faf.up.railway.app
+- **API:** https://artistic-serenity-production.up.railway.app/api/tasks
+- **Database:** MongoDB Atlas (cloud)
+
 ## Quick Start
 
 ### Prerequisites
