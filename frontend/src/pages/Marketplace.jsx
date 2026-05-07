@@ -49,8 +49,6 @@ export default function Marketplace() {
   const [appliedFilters, setAppliedFilters] = useState({});
   const [generatedQuery, setGeneratedQuery] = useState('');
 
-  const navigate = useNavigate();
-
   const fetchTasks = useCallback(async (params = {}) => {
     setLoading(true);
     try {
